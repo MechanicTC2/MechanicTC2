@@ -1,7 +1,15 @@
 # Hello, fellow programmer!
+
+
 My name is Nathan Kwok, or nk64!
-I am a young developer in Los Angeles, CA.
+
+
+I am a young developer in need of a new laptop...
+
+
 I enjoy programming, playing games, and crying about not having Github Copilot
+
+
 ---
 <details>
 <summary>Here are some famous quotes:</summary>
