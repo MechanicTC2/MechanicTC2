@@ -1,13 +1,13 @@
 # Hello, fellow programmer!
 
 
-My name is Nathan Kwok, or nk64!
+My name is nk64 or mechanictc!
 
 
-I am a young developer in need of a new laptop...
+I am a young developer in need of funding...
 
 
-I enjoy programming, playing games, and crying about not having Github Copilot
+I enjoy programming, playing games, and crying about css
 
 
 ---
@@ -21,7 +21,7 @@ I enjoy programming, playing games, and crying about not having Github Copilot
 >skill issue
 >
 >
->LMAO/LMFAOO
+>gaijin entertainment
 >
 >
 >i'm hungry
@@ -29,12 +29,6 @@ I enjoy programming, playing games, and crying about not having Github Copilot
 >
 >hi hungry i'm dad
 </details>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="./me.png">
- <source media="(prefers-color-scheme: light)" srcset="./me.png">
- <img alt="A cool picture of me :)" src="/me.png" width="256px">
-</picture>
-That's me I think... Actually maybe not. Yeah that's definitely not me.
 
 
 ---
